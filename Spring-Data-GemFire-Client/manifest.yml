@@ -1,0 +1,7 @@
+---
+applications:
+- name: Spring-Data-GemFire-Client
+  random-route: false
+  path: target/Spring-Data-GemFire-Client-0.0.1-SNAPSHOT.jar
+  services:
+  - pcc-dev-cluster

@@ -1,0 +1,5 @@
+{"accountNumber" : "WCNY101","firstName" : "Alice","lastName" : "Speed","gender" : "F","dob" : "1988-08-22","zip" : 10003,"state" : "NY","Address" : "123 1st St","accountCreationDate" :  "2017-05-16T19:20:30+01:00"}
+{"accountNumber" : "WCNY102","firstName" : "Labadie","lastName" : "Columbus","gender" : "M","dob" : "1993-12-13","zip" : 16105,"state" : "MI","Address" : "955 Morar Spur Suite","accountCreationDate" :  "2017-05-16T19:20:30+01:00"}
+{"accountNumber" : "WCNY103","firstName" : "Beier","lastName" : "Elvira","gender" : "M","dob" : "1996-07-11","zip" : 87328,"state" : "NM","Address" : "821 Lassie Square","accountCreationDate" :  "2017-05-16T19:20:30+01:00"}
+{"accountNumber" : "WCNY104","firstName" : "Blanda","lastName" : "Tory","gender" : "F","dob" : "1991-10-07","zip" : 82073,"state" : "WY","Address" : "24812 Severo Valley Apt. 355","accountCreationDate" :  "2017-05-16T19:20:30+01:00"}
+{"accountNumber" : "WCNY105","firstName" : "Carroll","lastName" : "Cruz","gender" : "F","dob" : "1988-08-22","zip" : 43928,"state" : "OH","Address" : "21312 Amani Manor Apt. 433","accountCreationDate" :  "2017-05-16T19:20:30+01:00"}
